@@ -3,7 +3,7 @@
 // Ejemplo Argentina: 543425980000
 const WHATSAPP_NUMBER = "5493425459234";
 const WHATSAPP_TEXT = "Hola Carioca Urbanas, quiero consultar por un modelo del catálogo.";
-const TOTAL_PAGES = 23;
+const TOTAL_PAGES = 24;
 
 const catalog = document.getElementById("catalog");
 for (let i = 2; i <= TOTAL_PAGES; i++) {
